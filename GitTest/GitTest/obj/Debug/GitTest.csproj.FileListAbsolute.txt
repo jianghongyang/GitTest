@@ -1,0 +1,10 @@
+C:\Users\jiang\Desktop\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\jiang\Desktop\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\jiang\Desktop\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.Form1.resources
+C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.Properties.Resources.resources
+C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.csproj.GenerateResource.Cache
+C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.pdb
+C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.Form2.resources
+C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.Form3.resources
