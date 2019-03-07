@@ -33,7 +33,7 @@ namespace GitTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string message = "版本2.0";
+            string message = "版本3.0";
             MessageBox.Show(message);
         }
 
