@@ -8,3 +8,14 @@ C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.exe
 C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.pdb
 C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.Form2.resources
 C:\Users\jiang\Desktop\GitTest\GitTest\obj\Debug\GitTest.Form3.resources
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\bin\Debug\GitTest.exe.config
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.exe
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.pdb
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\bin\Debug\GitTest.exe
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\bin\Debug\GitTest.pdb
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.Form1.resources
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.Form2.resources
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.Form3.resources
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.Properties.Resources.resources
+F:\JiangHongYang\MyGitRepository\GitTest测试\GitTest\GitTest\obj\Debug\GitTest.csproj.GenerateResource.Cache
